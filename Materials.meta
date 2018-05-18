@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/the_escape.unity
+  isLoaded: 1
+  isActive: 1
